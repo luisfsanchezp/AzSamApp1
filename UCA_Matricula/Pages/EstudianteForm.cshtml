@@ -1,0 +1,24 @@
+@page
+
+<h2>Registrar Estudiante</h2>
+
+<form method="post" action="/Estudiantes/Crear">
+
+    <input name="IdEstudiante" placeholder="ID">
+    <br>
+    <input name="Nombre" placeholder="Nombre">
+    <br>
+    <input name="Apellido" placeholder="Apellido">
+    <br>
+    <input name="Direccion" placeholder="Dirección">
+    <br>
+    <input name="Telefono" placeholder="Teléfono">
+    <br>
+    <input name="Correo" type="email" placeholder="Correo"><br>
+    <p>Fecha de Nacimiento</p>
+    <input name="FechaNacimiento" type="date"><br>
+    <p>Fecha de Inscripción</p>
+    <input name="FechaInscripcion" type="date"><br>
+
+    <button type="submit">Guardar</button>
+</form>
