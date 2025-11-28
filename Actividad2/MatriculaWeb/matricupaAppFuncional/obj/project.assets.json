@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\luisFernandoC#\\c#Act2\\matricupaAppFuncional\\matricupaAppFuncional.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\luisFernandoC#\\AzSamApp1\\Actividad2\\MatriculaWeb\\matricupaAppFuncional\\matricupaAppFuncional.csproj",
       "projectName": "matricupaAppFuncional",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\luisFernandoC#\\c#Act2\\matricupaAppFuncional\\matricupaAppFuncional.csproj",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\luisFernandoC#\\AzSamApp1\\Actividad2\\MatriculaWeb\\matricupaAppFuncional\\matricupaAppFuncional.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\luisFernandoC#\\c#Act2\\matricupaAppFuncional\\obj\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\luisFernandoC#\\AzSamApp1\\Actividad2\\MatriculaWeb\\matricupaAppFuncional\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
